@@ -1,5 +1,3 @@
-
-console.log('hola typescript')
 // Enums
 
 // son otro tipo de dato agregado por typescript, los enums nos permiten hacer que los numeros
